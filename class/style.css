@@ -1,0 +1,15 @@
+.pre-code {
+    background-color: #3b3b3b; 
+    color: #c9cdd7;  
+    font-size: 16px;
+}
+
+.g {
+    color: #6d6d6d
+}
+
+* {
+    font-family: 'Nunito', 'Mitr',  sans-serif;
+    padding: 0;
+    margin: 0;
+}
